@@ -124,6 +124,9 @@ When creating repos, think of name carefully. Changing the name later has very t
 ## CLIs + GitHub Guide
 - Guide written by me - `/LLM CLI + Git, Github Guide.md`
 - Explains ONLY how LLM CLIs and Git/GitHub work together - This is NOT a guide on how GitHub itself works. It does NOT replace a guide specificaly for how GitHub works.
+- TO DO:
+    - Download Gemini CLI + Nano Banana exntension; get free €250 api credits 
+    - Download Codex CLI
 
 ### Command Line - Command Cheat Sheets
 #### git commands
