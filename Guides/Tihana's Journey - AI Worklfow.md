@@ -133,7 +133,7 @@ During your own exploration of the environment, you will likely come across seve
 
 Its slightly messy, Nano Banana and I weren't vibing so well.
 
-![AI Pipeline Development Environment](https://raw.githubusercontent.com/xapids/LLM/main/Guides%2C%20Tools/Infographic%3A%20AI%20Pipeline%20Development%20Environment.jpeg)
+![AI Pipeline Development Environment](https://raw.githubusercontent.com/xapids/LLM/main/Guides/Resources%2C%20Tools/Infographic%3A%20AI%20Pipeline%20Development%20Environment.jpeg)
 
 ---
 
