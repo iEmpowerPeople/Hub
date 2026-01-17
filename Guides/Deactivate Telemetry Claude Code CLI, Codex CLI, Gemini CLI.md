@@ -11,14 +11,14 @@ Goal: Turn off usage tracking ("telemetry") for three AI tools and quickly test 
 
 ---
 
-## 2. Edit your shell settings (`~/.zshrc`)
+## 2. Edit your shell settings (`~/.zshenv`)
 
 This file runs every time you open Terminal. We add lines that tell tools **not** to send telemetry.
 
 1. Open the file:
 
 ```bash
-nano ~/.zshrc
+nano ~/.zshenv
 ```
 
 2. At the bottom, add these lines (keep existing lines, just append):
@@ -38,7 +38,7 @@ export GEMINI_TELEMETRY_ENABLED=false
 4. Apply the changes in the current Terminal:
 
 ```bash
-source ~/.zshrc
+source ~/.zshenv
 ```
 
 These lines disable telemetry for Claude Code (DISABLE_TELEMETRY, DISABLE_STATSIG, SENTRY_DSN) and Gemini CLI (GEMINI_TELEMETRY_ENABLED). [page:0][web:48]
