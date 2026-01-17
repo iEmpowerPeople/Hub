@@ -126,9 +126,14 @@ When creating repos, think of name carefully. Changing the name later has very t
 - Explains ONLY how LLM CLIs and Git/GitHub work together - This is NOT a guide on how GitHub itself works. It does NOT replace a guide specificaly for how GitHub works.
 
 ### Command Line - Command Cheat Sheets
-- git commands:
-- gh commands: https://cli.github.com/manual/gh
-- Unix/Linux commands: 
+#### git commands
+[Downloadable PDF](https://github.com/iEmpowerPeople/Hub/blob/cad1f2083beb1fe27e1dc71ff30beaa549099d38/Guides/Resources/Git%20Cheat%20Sheet.pdf)
+
+#### gh commands
+https://cli.github.com/manual/gh
+
+#### Linux/Unix commands
+[Downloadable PDF](https://github.com/iEmpowerPeople/Hub/blob/cad1f2083beb1fe27e1dc71ff30beaa549099d38/Guides/Resources/Linux-Unix%20Cheat%20Sheet.pdf)
 
 ---
 
@@ -138,9 +143,7 @@ During your own exploration of the environment, you will likely come across seve
 
 Its slightly messy, Nano Banana and I weren't vibing so well.
 
-![AI Pipeline Development Environment](https://raw.githubusercontent.com/xapids/LLM/main/Guides/Resources%2C%20Tools/Infographic%3A%20AI%20Pipeline%20Development%20Environment.jpeg)
-
----
+![AI Pipeline Development Environment](https://github.com/iEmpowerPeople/Hub/blob/e896f5627592abee80d4b5e044831a86eedf23d6/Guides/Resources/Infographic%3A%20AI%20Pipeline%20Development%20Environment.jpeg)
 
 ## Resources
 
