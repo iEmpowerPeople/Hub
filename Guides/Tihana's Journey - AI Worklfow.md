@@ -104,7 +104,7 @@ CodeLayer UI on Windows via a remote hosted macOS machine
 
 ---
 
-## GitHub
+## Terminal, Git + GitHub
 
 GitHub is a high‑efficiency collaborative file management environment. 
 
@@ -123,7 +123,12 @@ When creating repos, think of name carefully. Changing the name later has very t
 
 ## CLIs + GitHub Guide
 - Guide written by me - `/LLM CLI + Git, Github Guide.md`
-- Explains ONLY how LLM CLIs and Git/GitHub work together - This is NOT a guide on how GitHub itself works. It does NOT replace a guide specificaly for how GitHub works. 
+- Explains ONLY how LLM CLIs and Git/GitHub work together - This is NOT a guide on how GitHub itself works. It does NOT replace a guide specificaly for how GitHub works.
+
+### Command Line - Command Cheat Sheets
+- git commands:
+- gh commands: https://cli.github.com/manual/gh
+- Unix/Linux commands: 
 
 ---
 
@@ -137,7 +142,7 @@ Its slightly messy, Nano Banana and I weren't vibing so well.
 
 ---
 
-## Extras
+## Resources
 
 ### People to follow
 - Dex - Humanlayer/Codelayer Founder - 🦄 ai that works host - https://x.com/dexhorthy?s=20
