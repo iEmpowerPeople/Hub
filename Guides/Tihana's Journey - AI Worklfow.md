@@ -112,7 +112,8 @@ GitHub has great documentation. Read through it first: https://docs.github.com/e
 
 When creating repos, think of name carefully. Changing the name later has very tedious side-affects. For folders and files too, but drastcially less.
 
-### Repositories
+
+### 1. Repositories
 #### Hub-Public
 - My public repo which includes this guide
 - Purpose: you can edit the files there
@@ -121,29 +122,29 @@ When creating repos, think of name carefully. Changing the name later has very t
 - Our public repo for shared tools like agents, comannds, hooks, skills etc.
 - Purpose: A main source of truth for shared tools. Due to how git/github works, its important to keep these seperate from our other docs, so that we can easily pull/push/clone into our settings, without including all the other “junk”
 
-## CLIs + GitHub Guide
+### 2. CLIs + GitHub
 - Guide written by me - `/LLM CLI + Git, Github Guide.md`
 - Explains ONLY how LLM CLIs and Git/GitHub work together - This is NOT a guide on how GitHub itself works. It does NOT replace a guide specificaly for how GitHub works.
 - TO DO:
     - Download Gemini CLI + Nano Banana exntension; get free €250 api credits 
     - Download Codex CLI
 
-## Data Privacy with CLIs
-### Claude Code
+### 3. Data Privacy with CLIs
+#### Claude Code
 - opt out of data usage to train model in broswer account settings
 - disable telemetry -> [Deactivate Telemetry](https://github.com/iEmpowerPeople/Hub/blob/0c14b3edd68968a545b96d983e554abcabddc978/Guides/Deactivate%20Telemetry%20Claude%20Code%20CLI%2C%20Codex%20CLI%2C%20Gemini%20CLI.md)
 
-### Gemini
+#### Gemini
 - opt out of activity tracking
 - disable telemetry -> [Deactivate Telemetry](https://github.com/iEmpowerPeople/Hub/blob/0c14b3edd68968a545b96d983e554abcabddc978/Guides/Deactivate%20Telemetry%20Claude%20Code%20CLI%2C%20Codex%20CLI%2C%20Gemini%20CLI.md)
 
   
-### Codex
+#### Codex
 - opt out of data usage to train model in broswer account settings
 - disable telemetry -> [Deactivate Telemetry](https://github.com/iEmpowerPeople/Hub/blob/0c14b3edd68968a545b96d983e554abcabddc978/Guides/Deactivate%20Telemetry%20Claude%20Code%20CLI%2C%20Codex%20CLI%2C%20Gemini%20CLI.md)
 
 
-### Command Line - Command Cheat Sheets
+### 4. Command Line - Command Cheat Sheets
 #### git commands
 [Downloadable PDF](https://github.com/iEmpowerPeople/Hub/blob/cad1f2083beb1fe27e1dc71ff30beaa549099d38/Guides/Resources/Git%20Cheat%20Sheet.pdf)
 
