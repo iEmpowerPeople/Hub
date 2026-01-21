@@ -152,7 +152,7 @@ Installation guide: `/codelayer-for-windows.md`
 ### AI Dev Environment
 During your exploration of the environment, you will likely come across several terminologies. I wanted to provide you an infographic that would allow you to easierly structure them and understand their relationships.
 
-![AI Dev Environment](https://github.com/iEmpowerPeople/Hub/blob/e896f5627592abee80d4b5e044831a86eedf23d6/Guides/Resources/Infographic%3A%20AI%20Pipeline%20Development%20Environment.jpeg)
+![AI Dev Environment](https://github.com/iEmpowerPeople/hub/blob/main/guides/resources/ai-dev-environment.png)
 
 ### Command Line - Command Cheat Sheets
 #### git commands
